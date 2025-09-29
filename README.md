@@ -1,6 +1,3 @@
-# sql-projects-collection
-A collection of SQL projects
-
 # 🗃️ SQL Projects Collection
 
 This repository contains beginner-friendly SQL projects designed to help you learn database design, CRUD operations, joins, and queries in real-world scenarios.
