@@ -23,3 +23,14 @@ This repository contains beginner-friendly SQL projects designed to help you lea
   - Find popular books and active members
   - Use `JOIN`, `GROUP BY`, `HAVING`, and date filters
 - File: `library_management_project.sql`
+
+---
+
+### 3. 🏪 E-Commerce Order Database
+- Tables: `customers`, `products`, `orders`, `order_items`
+- Features:
+  - Manage customer, product, and order data
+  - Track products in each order (many-to-many relationship)
+  - Calculate revenue per product and total orders
+  - Identify low-stock products
+- File: `ecommerce_order_project.sql`
