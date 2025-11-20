@@ -52,7 +52,7 @@ Includes 20+ practical SQL queries such as:
 
 ---
 
-## 📄 **File: `hospital_management_project.sql`**
+### 📄 **File: `hospital_management_project.sql`**
 
 This file contains:
 
