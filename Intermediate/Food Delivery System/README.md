@@ -1,4 +1,4 @@
-# 🍕 Food Delivery System (MySQL)
+# 🍕 Food Delivery System
 
 A SQL project that models a real-world **food delivery platform** similar to Zomato/Swiggy.
 This system includes users, restaurants, menu items, delivery partners, orders, and order items with complete relationships and sample data.
@@ -11,8 +11,7 @@ It’s an **intermediate-level SQL project**, perfect for database learning, por
 
 | File                         | Description                                          |
 | ---------------------------- | ---------------------------------------------------- |
-| **food_delivery_mysql.sql**  | Full MySQL schema + sample data + indexes + view     |
-| **queries.sql** *(optional)* | 25 practice queries (CRUD, JOIN, analytics, reports) |
+| **food_delivery_project.sql**  | Full MySQL schema + sample data + indexes + view     |
 
 ---
 
@@ -98,7 +97,7 @@ USE food_delivery_db;
 Either run in MySQL Workbench or via terminal:
 
 ```bash
-mysql -u root -p food_delivery_db < food_delivery_mysql.sql
+mysql -u root -p food_delivery_db < food_delivery_project.sql
 ```
 
 ### **3. Done!**
