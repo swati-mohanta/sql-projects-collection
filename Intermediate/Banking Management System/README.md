@@ -1,10 +1,10 @@
-# Banking Management System **
+# Banking Management System
 
 A relational SQL project modeling a simple banking system using MySQL 8+.  
 Includes customers, branches, accounts, transactions, loans, and cards. Good for showing financial data modelling, transaction history, and reporting.
 
 ## 📁 Files
-- `banking_mysql.sql` — full schema, sample data, views
+- `banking_management_project.sql` — full schema, sample data, views
 
 ## 🧩 Schema Overview
 - `customers` — personal details
@@ -27,7 +27,7 @@ USE banking_db;
 2. Import the SQL:
 
 ```bash
-mysql -u user -p bankinh_db < banking_management_project.sql
+mysql -u user -p banking_db < banking_management_project.sql
 ```
 
 ## ✅ Key Features
