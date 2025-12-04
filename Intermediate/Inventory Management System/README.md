@@ -1,4 +1,3 @@
-````markdown
 # 📦 Inventory & Warehouse Management System (MySQL)
 
 A MySQL 8+ compatible intermediate SQL project that models inventory across multiple warehouses, including purchases, stock, vendors, and inventory movements.
