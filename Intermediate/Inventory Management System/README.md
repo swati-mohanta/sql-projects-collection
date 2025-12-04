@@ -1,10 +1,10 @@
 # 📦 Inventory & Warehouse Management System (MySQL)
 
-A MySQL 8+ compatible intermediate SQL project that models inventory across multiple warehouses, including purchases, stock, vendors, and inventory movements.
+An intermediate SQL project that models inventory across multiple warehouses, including purchases, stock, vendors, and inventory movements.
 
 ## Files
 - `inventory_management_project.sql` — schema + sample data + views
-- `queries.sql` — practical queries (included below)
+- `queries.sql` — practical queries
 
 ## Schema Summary
 Tables:
@@ -23,14 +23,14 @@ Views:
 ## How to run
 1. Create DB & use it:
 ```sql
-CREATE DATABASE inventory_db;
-USE inventory_db;
+CREATE DATABASE inventory_management_db;
+USE inventory_management_db;
 ````
 
 2. Run:
 
 ```bash
-mysql -u user -p inventory_db < inventory_management_mysql.sql
+mysql -u user -p inventory_management_db < inventory_management_project.sql
 ```
 
 ## Features & Demonstrated Skills
