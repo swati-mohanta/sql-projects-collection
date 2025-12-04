@@ -3,7 +3,7 @@
 A MySQL 8+ compatible intermediate SQL project that models inventory across multiple warehouses, including purchases, stock, vendors, and inventory movements.
 
 ## Files
-- `inventory_management_mysql.sql` — schema + sample data + views
+- `inventory_management_project.sql` — schema + sample data + views
 - `queries.sql` — practical queries (included below)
 
 ## Schema Summary
